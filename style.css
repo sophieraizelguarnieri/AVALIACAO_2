@@ -1,0 +1,23 @@
+body {
+background: rgb(7, 20, 3);
+}
+h1 {
+font-size: 50px; 
+color: #b91aa4; 
+margin-top: 200px; 
+margin-bottom: 100px; 
+margin-left: 500px;
+}
+p {
+font-family: "Helvetica", Arial, sans-serif; 
+font-size: 25px;
+color: #f7f3f3; 
+margin-bottom: 45px ; 
+margin-left: 250px;
+text-align: justify;
+}
+img {
+    width: 400px; 
+    height: 400px; 
+    margin-left: 175px;
+    }
