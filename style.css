@@ -38,6 +38,12 @@ img {
 list-style: none;
 text-transform: uppercase;
 color: rgb(14, 14, 82);
-font-size: 35px;
-padding-left: 35px;
+font-size: 35px; 
+
 }
+img{
+    border: 5px solid black;
+}
+p{
+  border: 3px dotted black;
+ }
