@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="port-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+ <header class="cabecalho">
+    <img class="logoimg" src="hozierteeth.webp" alt="" srcset="">  
+    <ul class="listacabecalho">
+        <li class="itemcabecalho"><a href="index.html"> Home </a> </li>
+        <li class="itemcabecalho" ><a href="songs.html">His Songs </a> </li>
+        <li class="itemcabecalho" ><a href="him.html">About Him </a> </li>
+    
+    </ul>
+    </header> 
+    <h1>For all the moments</h1>
+<img src="hissongs.jpg" alt="">
+
+    </body>
+    </html>
